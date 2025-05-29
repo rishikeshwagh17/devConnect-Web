@@ -14,3 +14,10 @@ If you are developing a production application, we recommend using TypeScript wi
 # DevConnect Web frontEnd
 
 -created a vite + react project and removed unnecessary code
+-Install tailwind css and make a correct configuration mentioned in their official site check the version you are using
+-Install Daisy ui for custom Components
+-Add Navbar Component
+-Always maintain folder structure and create a component folder
+
+- installed the react-router
+  -use brpserRouter and add the required routes
