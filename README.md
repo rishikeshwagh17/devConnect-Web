@@ -21,3 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - installed the react-router
   -use brpserRouter and add the required routes
+
+- Login Functionality
+  - create a login page
+  -
