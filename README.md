@@ -31,3 +31,6 @@ If you are developing a production application, we recommend using TypeScript wi
 -install redux toolkit - https://redux-toolkit.js.org/introduction/getting-started
 
 - setup a store and configure store and generate the slice for the user and export it along with actions and add reducer to store
+- Login and see if the data is coming to the redux store
+- navbar should update as soon as user logs in with user photo and name
+- refactoe our code to add constant for the some values like BASE_URL (server from where api is returning the data)
