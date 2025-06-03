@@ -24,4 +24,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - Login Functionality
   - create a login page
-  -
+    -install axios pakage
+    -install the CORS in backend side and add middleware to app with congigurations: origin,credentials: true
+    -in the ui while making the api always pass {withCredentials:true} along with request body and url route so that we can store token in the cookies of our domain
+
+-install redux toolkit - https://redux-toolkit.js.org/introduction/getting-started
+
+- setup a store and configure store and generate the slice for the user and export it along with actions and add reducer to store
