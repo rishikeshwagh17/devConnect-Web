@@ -36,3 +36,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - refactoe our code to add constant for the some values like BASE_URL (server from where api is returning the data)
 - you should not be able to access other routes when user is not logged in or token is not generated
 - if token is not present redirect user to the login page
+- added the logout functionality to the app when user logsout it going to navigate to the login page
+- also added validations to the login form
