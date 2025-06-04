@@ -34,3 +34,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - Login and see if the data is coming to the redux store
 - navbar should update as soon as user logs in with user photo and name
 - refactoe our code to add constant for the some values like BASE_URL (server from where api is returning the data)
+- you should not be able to access other routes when user is not logged in or token is not generated
+- if token is not present redirect user to the login page
